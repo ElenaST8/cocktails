@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Hepta+Slab:wght@600&display=swap");
+
+.cocktail {
+  width: 30vw;
+  margin: 0 auto;
+}
+
+.cocktail-name {
+  font-family: "Hepta Slab", serif;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  margin: 1rem;
+  color: #0f0f61;
+  border-radius: 20px;
+  border: 1px solid black;
+  background: linear-gradient(to top, rgb(4 13 68), rgb(185 228 245));
+}
+
+.cocktail-img {
+  width: 100%;
+}
